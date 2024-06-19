@@ -1,0 +1,41 @@
+.grey{
+    width: auto;
+    height: 4px;
+    background-color: lightgray;
+}
+
+.t11{
+    display: inline;
+    
+}
+
+.t12{
+    display: inline;
+    color: grey;
+}
+
+.t21{
+    display: inline;
+   
+}
+
+.t22{
+    display: inline;
+    color: grey;
+}
+
+.t31{
+    display: inline;
+   
+}
+
+.t32{
+    display: inline;
+    color: grey;
+}
+
+
+@media screen {
+    .row{columns: 12px;} 
+    
+}
